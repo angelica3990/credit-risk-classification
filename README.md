@@ -11,4 +11,4 @@ The purpose of this analysis is to run a classification report to analyze result
 
 ## Summary
 
-Classification report states F1 score to be 100% for healthy loans and 84% accuracy for high-risk category.
+Classification report states F1 score to be 100% for healthy loans and 85% accuracy for high-risk category.
