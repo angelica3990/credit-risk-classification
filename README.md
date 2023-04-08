@@ -2,7 +2,8 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to run a classification report to analyze results and conclude on the strength of the model for predicting new data.
+The purpose of this analysis is to train a model to detect healthy and high-risk loans. 
+
 
 ## Results
 - Machine Learning Model 1:
